@@ -8,7 +8,7 @@ pipeline {
         steps { 
            sh 'echo "success..."'
            sh 'echo "Cancel"'
-          
+           sh 'echo "well-come to prithvi devops"'
         }
      }
      
